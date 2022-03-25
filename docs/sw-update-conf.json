@@ -84,6 +84,7 @@
           "repo": "MrBeamLedStrips",
           "pip": "https://github.com/Josef-MrBeam/MrBeamLedStrips/archive/{target_version}.zip",
           "global_pip_command": true,
+          "user": "Josef-MrBeam",
           "beamos_date": {
             "2021-06-11": {
               "pip_command": "sudo /usr/local/mrbeam_ledstrips/venv/bin/pip"
@@ -92,6 +93,7 @@
         },
         "iobeam": {
           "repo": "iobeam",
+          "user": "mrbeam",
           "pip": "git+ssh://git@bitbucket.org/mrbeam/iobeam.git@{target_version}",
           "global_pip_command": true,
           "beamos_date": {
@@ -102,6 +104,7 @@
         },
         "mrb-hw-info": {
           "repo": "mrb_hw_info",
+          "user": "mrbeam",
           "pip": "git+ssh://git@bitbucket.org/mrbeam/mrb_hw_info.git@{target_version}",
           "global_pip_command": true,
           "beamos_date": {
@@ -112,6 +115,7 @@
         },
         "mrbeamdoc": {
           "repo": "MrBeamDoc",
+          "user": "Josef-MrBeam",
           "pip": "https://github.com/Josef-MrBeam/MrBeamDoc/archive/{target_version}.zip"
         }
       }
@@ -138,6 +142,7 @@
           "repo": "netconnectd_mrbeam",
           "pip": "https://github.com/Josef-MrBeam/netconnectd_mrbeam/archive/{target_version}.zip",
           "global_pip_command": true,
+          "user": "Josef-MrBeam",
           "beamos_date": {
             "2021-06-11": {
               "pip_command": "sudo /usr/local/netconnectd/venv/bin/pip"
